@@ -257,6 +257,7 @@ void SystemClock_Config(void)
 
 
 ---
+```
 ### Result
 
 The digital sensor was successfully interfaced with the STM32 microcontroller. The LED connected to PA5 turned ON when the sensor input at PA0 was HIGH and turned OFF when the sensor input was LOW.
